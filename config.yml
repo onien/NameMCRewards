@@ -1,0 +1,8 @@
+ip: 'zorapvp.net'
+no-perms: '&cNo permission'
+console-exec: '&cCommand is only for players'
+no-like: '&cYou have not liked our page :('
+redeemed: '&cYou have already redeemed your reward.'
+commands:
+  - '/say %player% liked our page on NameMC! :D'
+already-redeemed:

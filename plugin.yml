@@ -1,0 +1,6 @@
+name: NMC
+author: LegitSkrub, onien
+version: 1.0
+main: me.skrub.namemc.Main
+commands:
+  namemc:
